@@ -14,13 +14,11 @@
 
 <p align="center">
   <em>Full‑Stack Developer · ML Researcher · Social‑Impact Founder</em><br>
-  <a href="https://suteteru.org"><img src="https://img.shields.io/badge/%E2%9C%8F%EF%B8%8F%20Šutēru‑Founder‑brightgreen" alt="Šutēru badge"/></a>
+  <a href="https://suteru.org"><img src="https://img.shields.io/badge/%E2%9C%8F%EF%B8%8F%20Šutēru‑Founder‑brightgreen" alt="Šutēru badge"/></a>
   <a href="https://dyadapt-demo.streamlit.app"><img src="https://img.shields.io/badge/%F0%9F%A6%8A%20DyAdapt‑ML%20Engineer‑blueviolet" alt="DyAdapt badge"/></a>
   <br>
-  <a href="mailto:<—replace‑me—>@gmail.com"><img src="https://img.shields.io/badge/Email‑D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/<—replace‑me—>/"><img src="https://img.shields.io/badge/Linked‑%20in‑0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/<—replace‑me—>"><img src="https://img.shields.io/badge/Twitter‑1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/<—id—>"><img src="https://img.shields.io/badge/Stack‑Overflow‑FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="mailto:quartiero08@gmail.com"><img src="https://img.shields.io/badge/Email‑D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-quartiero-b9a715320/"><img src="https://img.shields.io/badge/Linked‑%20in‑0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
