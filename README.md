@@ -18,8 +18,8 @@ quArtiero/quArtiero — GitHub profile README
 
 <p align="center">
   <!-- contact & links -->
-  <a href="mailto:quartiero08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-quartiero08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:pepequartiero@outlook.com">
+    <img src="https://img.shields.io/badge/Email-pepequartiero@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/quArtiero">
     <img src="https://img.shields.io/badge/GitHub-quArtiero-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
